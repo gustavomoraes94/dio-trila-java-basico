@@ -1,6 +1,8 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
 
+        String meuNome = "Gustavo Moraes";
+
         double salarioMinimo = 2500;
 
         short numeroCurto = 1;
